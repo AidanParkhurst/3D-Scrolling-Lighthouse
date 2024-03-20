@@ -39,6 +39,7 @@
     }
 </script>
 
+<title>Aidan Parkhurst</title>
 <div class="back">
     {#if angle < 90}
         <h1 class="title">Aidan Parkhurst</h1>
